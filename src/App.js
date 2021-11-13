@@ -1,4 +1,7 @@
 import React from "react";
-const App = () => <div>i am the app component</div>;
+const App = () => 
+<div className="App">
+    HI THERE!
+</div>    ;
 
 export default App;
